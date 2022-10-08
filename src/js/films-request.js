@@ -5,7 +5,7 @@ const TREND_FILMS_URL = 'https://api.themoviedb.org/3/trending/movie/week?';
 const SEARCH_FILMS_URL = 'https://api.themoviedb.org/3/search/movie?';
 const SEARCH_FILM_DETAILS_URL = 'https://api.themoviedb.org/3/movie/';
 const GENRES_LIST_URL = 'https://api.themoviedb.org/3/genre/movie/list?';
-const KEY = '308ba57d7f6135bbdbfbab5697860db3';
+const KEY = '332ebb0c59493b862a9beffecc6f1777';
 
 export default class FilmsLoadService {
   constructor() {
